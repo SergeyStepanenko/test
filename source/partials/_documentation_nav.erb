@@ -1,0 +1,35 @@
+<div>
+  <h3 class="docs-section-heading">
+    <%= t("navigation.basics.title") %>
+  </h3>
+
+  <ul>
+		<li class="doc-item">
+			<%= current_link_to(
+			"Инфо",
+			"#{locale_prefix}/basics/info/"
+			) %>
+		</li>
+    <li class="doc-item">
+      <%= current_link_to(
+        "Описание",
+        "#{locale_prefix}/basics/description/"
+      ) %>
+    </li>
+  </ul>
+</div>
+
+<div class="toc-block">
+  <h3 class="docs-section-heading">
+    <%= t("navigation.advanced.title") %>
+  </h3>
+
+  <ul>
+    <li class="doc-item">
+      <%= current_link_to(
+        "Project templates",
+        "#{locale_prefix}/advanced/project-templates/"
+      ) %>
+    </li>
+  </ul>
+</div>

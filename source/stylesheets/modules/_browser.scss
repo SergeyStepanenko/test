@@ -1,0 +1,56 @@
+.browser {
+  position: relative;
+  text-align: left;
+}
+
+.browser:before {
+  @include size(100%, 1.6875em);
+  background: $browser-bar-color url("../images/browser-bar-button-set.svg") no-repeat 0.5em 0.5em;
+  border-radius: $base-border-radius $base-border-radius 0 0;
+  content: "";
+  display: block;
+}
+
+.browser-body {
+  background-color: $browser-body-color;
+  font-weight: $font-weight-bold;
+  margin: 0;
+  padding: 1em;
+}
+
+.browser-code {
+  background: $browser-body-color;
+  margin: 0;
+  padding: 0;
+  display: block;
+
+  .variable {
+    color: #b58900;
+  }
+
+  .identifier {
+    color: white;
+  }
+}
+
+.browser-text-editor-sidebar {
+  @include position(absolute, 2em null 0 0);
+  @include size(5em, auto);
+  background: lighten($browser-body-color, 10);
+
+  @include media($medium-screen-up) {
+    width: 7.5em;
+  }
+}
+
+.browser-text-editor {
+  @include position(absolute, 1.6875em null 0 0);
+  @include size(100%, 90%);
+  background-image: image-url("text-editor.jpg");
+  background-size: 100% 200px;
+  background-repeat: no-repeat;
+
+  @include media($medium-screen-up) {
+    background-size: 100% 100%;
+  }
+}

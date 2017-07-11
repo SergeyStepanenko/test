@@ -1,0 +1,49 @@
+.built-with-middleman-block {
+  margin-bottom: 4em;
+}
+
+.built-with-middleman-list {
+  margin-top: 1em;
+}
+
+.built-with-middleman-list-item {
+  display: block;
+  border-bottom: 1px solid $base-border-color;
+  min-height: 60px;
+  line-height: 30px;
+  padding: 14px 0;
+  position: relative;
+}
+
+.built-with-middleman-link, .source-code-link {
+  transition: all .2s linear;
+
+  &:hover {
+    background: lighten($mm-blue, 42);
+  }
+}
+
+.built-with-middleman-link {
+  border-bottom: none;
+  display: inline;
+  padding: 0;
+
+  &:hover {
+    background: transparent;
+    border-bottom: 1px dotted $base-border-color;
+  }
+}
+
+.source-code-link {
+  background: white;
+  border-radius: $base-border-radius;
+  border: 1px solid $base-border-color;
+  color: lighten($medium-gray, 10);
+  position: absolute;
+  right: 26px;
+  font-size: $base-font-size * 0.75;
+  font-weight: $font-weight-bold;
+  line-height: 30px;
+  padding: 0 0.75em;
+  text-transform: uppercase;
+}

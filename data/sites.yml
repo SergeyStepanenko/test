@@ -1,0 +1,499 @@
+built:
+  - url: https://transparency.wikimedia.org/
+    title: Wikimedia Foundation Transparency Report
+  - url: https://wordcounter.io
+    title: Word Counter
+  - url: http://dev.welaika.com
+    title: weLaika Software Development
+  - url: http://www.beerfestivalbuddy.com
+    title: Beer Festival Buddy
+    source: https://github.com/matoakley/beer-festival-buddy-middleman
+  - url: http://aroaminggeek.com
+    title: A Roaming Geek
+  - url: https://loremipsumgenerator.com/
+    title: Lorem Ipsum Generator
+  - url: https://www.digitalocean.com
+    title: DigitalOcean
+  - url: http://www.focuswish.com
+    title: FocusWish
+  - url: http://www.formcandy.com
+    title: FormCandy
+  - url: http://www.churnomatic.com
+    title: Churn-o-matic
+  - url: http://czechdesignweek.cz/
+    title: Czech Design Week 2016
+  - url: http://www.antonymorgangolf.com
+    title: Anthony Morgan Golf
+  - url: https://adrianching.com
+    title: Adrian Ching - Software Engineer
+    source: https://github.com/adrianchinghc/adrianchinghc.github.io
+  - url: https://getprintastic.com/
+    title: "Printastic - Print your memories"
+  - url: http://evmorov.github.io/lang-compare/
+    title: "Side-by-side language comparison"
+    source: https://github.com/evmorov/lang-compare
+  - url: http://jankraus.pl/
+    title: "Jan Kraus Stanko Blog"
+  - url: https://www.fabricationgem.org
+    title: Fabrication - simple and powerful object generation gem for Ruby
+  - url: https://marsbased.com
+    title: MarsBased - Web and Mobile Development Consultancy from Barcelona specialising in Ruby on Rails, AngularJS and Ionic.
+  - url: https://www.PromptWorks.com/
+    title: PromptWorks - Test-driven, agile software developers specializing in Ruby, Python, and JavaScript.
+  - url: http://www.liveslides.com/
+    title: LiveSlides
+  - url: http://joshlain.cz
+    title: Josh Laincz
+  - url: https://software-berater.net/
+    title: Die Software Berater
+  - url: https://www.bodypil.de/
+    title: "Bodypil Zuckerpaste"
+  - url: http://opensource.locaweb.com.br/locawebstyle/
+    title: Documentation of Locaweb Style Framework
+    source: https://github.com/locaweb/locawebstyle
+  - url: http://helloflock.com
+    title: Flock - HR Benefits and Compliance Management Solution (Free)
+  - url: http://www.vexti.co/
+    title: "Vexti Website Development"
+  - url: http://black.fri.uni-lj.si/metkock/
+    title: Met kock - Slovenska poezija v novih medijih
+  - url: http://htmlcolorcodes.com/
+    title: "HTML Color Codes"
+  - url: http://hull.io
+    title: "Hull.io"
+  - url: http://www.startae.com
+    title: "Startaê - We’re your UX Design Team on demand"
+  - url: http://www.nickholden.io
+    source: https://github.com/nholden/nickholdenio
+  - url: http://bakecalc.com/
+    title: "BakeCalc"
+  - url: http://polytronixglass.com/
+    title: "Polytronix Glass"
+  - url: http://htmlarrows.com/
+    title: "HTML Arrows"
+  - url: http://ryanmerrill.net/
+    title: "Ryan Clark Merrill"
+    source: https://github.com/procload/rcm
+  - url: http://chu.is
+    title: "Eric Chu is..."
+  - url: http://www.modularscale.com
+    title: "Modular Scale"
+    source: https://github.com/modularscale/modularscale.com
+  - url: http://www.eventxtra.com
+    title: "EventXtra - Simple, Impactful, event last forever"
+  - url: http://flammlachs.de
+    title: "Delicious fire broiled fish speciality"
+  - url: http://filepicker.com
+    title: "Filepicker - image infrastructure"
+  - url: http://volume7.io
+    title: "Volume7"
+  - url: http://thisiscapra.com/
+    title: "Capra Design"
+    source: https://github.com/thisiscapra/thisiscapra.com
+  - url: http://hiphopquoted.com/
+    title: "Hip-Hop Quoted"
+    source: https://github.com/olliekav/hiphopquoted.com
+  - url: http://gunpowderlabs.com/
+  - url: http://hockeyapp.net/features/
+    title: "HockeyApp"
+  - url: http://dojo4.com
+    title: DOJO4
+  - url: http://doorman.it
+    title: Doorman - Evening Package Delivery on Request
+  - url: http://crazydesigns.co.uk
+  - url: http://cascadingmedia.com
+  - url: https://www.simple.com
+    title: "Simple"
+  - url: http://www.appsagainstebola.org
+    title: "AppsAgainstEbola.org"
+  - url: http://prototype-interactive.com/
+  - url: http://www.mangrove.com
+  - url: http://mountainscreen.com/
+    title: "Mountainscreen"
+  - url: http://frontcube.com
+  - url: http://ravisuhag.com/
+  - url: http://www.theverge.com/a/the-verge-50/intro
+  - url: https://saltstack.cz
+    title: "Saltstack.cz"
+    source: https://github.com/petrkle/saltstack.cz
+  - url: http://sass-lang.com
+    title: "Sass"
+    source: https://github.com/sass/sass-site
+  - url: http://sassandcompass.com
+  - url: http://craftyblues.com
+  - url: http://www.mandadream.com
+  - url: http://aktagon.com
+  - url: http://pixelunion.net
+  - url: http://syrinxoon.net
+  - url: http://nathanleray.me
+  - url: http://www.inkwellian.com
+  - url: https://plan.io
+  - url: http://tactless.inkwellian.com
+  - url: http://www.zoodotcom.com
+  - url: http://www.space150.com
+  - url: http://www.flotsam.nl
+  - url: http://mongoid.org
+  - url: http://redbullmusicacademy.com/worldtour/
+  - url: http://www.cedexis.com
+  - url: http://www.cassiegreer.com
+  - url: http://www.bigboulderconf.com
+  - url: http://scottjurek.com
+  - url: http://plantednutrition.com
+  - url: http://sskb.umn.edu
+  - url: https://www.findbigmail.com
+  - url: http://susy.oddbird.net
+  - url: http://sleede.com
+  - url: http://www.cyclocane.com
+  - url: http://merchantos.com
+  - url: http://karlfreeman.co.uk
+  - url: http://metalabdesign.com
+  - url: http://getflow.com
+  - url: http://alibosworth.com
+  - url: http://2012.eurucamp.org
+  - url: http://jrubyconf.eu
+  - url: http://voormedia.com
+  - url: http://hotelpostalongarone.it
+  - url: http://massgardinen.de
+  - url: http://v25media.com
+  - url: http://thirteen23.com
+  - url: http://hypervers.es
+  - url: http://davesdings.co.uk
+  - url: http://hyfn.com
+  - url: http://www.heitzke.com
+  - url: http://www.incubatebang.com
+  - url: http://euruko2013.org
+  - url: http://kesseki.harahara.org
+  - url: http://mrcthms.com
+  - url: http://rubycloud.com
+  - url: http://getquaderno.com
+  - url: http://converser.io
+  - url: http://davidanguita.name
+    source: https://github.com/danguita/davidanguita.name
+  - url: http://tarebyte.github.io
+  - url: http://gilesthompson.co.nz
+  - url: http://archiverapp.com
+    title: Archiver - Open archives and compress files on Mac OS X
+  - url: http://renamer.com
+    title: Renamer - batch file renamer for Mac
+  - url: http://www.leinakanal-gotha.de
+  - url: http://uandi.com
+  - url: http://busyconf.com
+  - url: http://tsumego.tasuki.org
+    source: https://github.com/tasuk/tsumego-web
+  - url: http://mailchimp.com
+    title: "MailChimp"
+  - url: http://mandrill.com
+  - url: http://www.librario.de
+  - url: http://www.alpine-lab.com
+  - url: http://omegaverse.info
+    source: http://github.com/movitto/omega
+  - url: http://nebulab.it
+  - url: http://rubyconferences.org
+    source: https://github.com/ruby-conferences/ruby-conferences-site
+  - url: http://www.vpsland.com
+  - url: http://docs.fraudrankr.com/
+  - url: http://waterforpeople.org
+  - url: http://www.viselectrica.it
+  - url: http://ausca.com
+  - url: http://sourcey.com
+    source: https://github.com/sourcey/sourcey.com
+  - url: https://www.rainforestqa.com/
+  - url: http://www.project-atomic.io/
+    source: https://github.com/projectatomic/atomic-site
+  - url: http://jina.me
+    source: https://github.com/jina/jina.me
+  - url: http://distantfutu.re
+    source: https://github.com/sgehrman/distantfuture
+  - url: http://www.ecosio.com
+  - url: http://alohafishmans.com
+  - url: http://pomocni.owocni.org
+  - url: http://echobind.com
+    title: "Echobind"
+  - url: http://benjamintan.io
+    title: Benjamin Tan Wei Hao
+  - url: http://www.lacroixdesign.net
+    title: "LaCroix Design Co."
+    source: https://github.com/lacroixdesign/lacroixdesign.net
+  - url: https://mojaveapp.com
+    title: "Mojaveapp"
+  - url: http://www.cheapboardgamer.com
+    title: "the Cheap Boardgamer"
+  - url: http://www.createthebridge.com
+    title: "Create the Bridge"
+  - url: http://www.26gems.io
+    title: "26 Gems"
+  - url: http://www.cantierecreativo.net
+    title: "Cantiere Creativo Ruby on Rails Web Agency"
+  - url: http://www.leanpanda.com
+    title: "Lean Panda Ruby on Rails Web Agency"
+  - url: http://vaporwa.re/
+    title: "Vaporware Inc."
+  - url: http://parkland.io/
+    title: "The Parkland"
+  - url: http://webmontag-schwerin.de
+    title: "Webmontag Schwerin"
+    source: https://github.com/WebmontagSN/webmontag-schwerin.de
+  - url: http://www.e2esound.com
+    title: "e2esound.com"
+  - url: http://smahr.net
+    title: "Scott Mahr"
+  - url: http://www.dearandrewkim.com
+    title: "Dear Andrew Kim"
+  - url: http://ict4g.fbk.eu/
+    title: "ICT4G - FBK"
+  - url: http://spmbook.com/
+    title: "spmbook"
+  - url: http://www.ict4g.net/adolfo/
+    title: "Adolfo Villafiorita's Home Page"
+  - url: http://ecota.co
+    title: "EcoTa.co - book a mini cab"
+  - url: https://funio.com
+    title: "Funio Web Hosting"
+  - url: http://summit.nativeadvertising.com
+    title: The Native Advertising Summit
+  - url: http://ggw-prototype.goalgorilla.com/
+    title: "Greenpeace Greenwire style guide & prototype"
+    source: https://github.com/greenpeace/ggw_styleguide
+  - url: https://derautopilot.com/
+    title: "derAutopilot A/B Testing, UX Design und Ruby on Rails Consultancy"
+  - url: https://candygerman.com/
+    title: "German candy subscription box - candy every month"
+  - url: http://www.codateam.com
+    title: "Custom Software Development House and Dedicated PHP Developers from Poland"
+  - url: http://lrug.org
+    title: "London Ruby User Group"
+    source: https://github.com/lrug/lrug.org
+  - url: http://www.krivoydesigner.com/
+    title: "Sergey Krivoy | Web Designer from Saint P."
+    source: https://github.com/nostrism/nostrism.github.io/tree/middleman
+  - url: http://madewithenvy.com
+    title: "Envy, a web consultancy"
+  - url: http://cmoproject.org
+    title: "Carpathian Mountain Outreach"
+    source: https://github.com/joshukraine/cmoproject.org
+  - url: http://oleg.codes
+    title: Oleg Mokhniuk
+  - url: https://dapulse.com
+    title: dapulse
+  - url: https://www.tofugu.com/
+    title: Tofugu
+  - url: https://pubacademy.com/
+    title: Pub Academy
+  - url: http://getbiblefirst.com/
+    title: "Bible First"
+    source: https://github.com/joshukraine/getbiblefirst.com
+  - url: http://euroteamoutreach.org/
+    title: "Euro Team Outreach"
+    source: https://github.com/joshukraine/euroteamoutreach.org
+  - url: http://www.defacto.nl
+    title: Defacto
+    source: https://github.com/DefactoSoftware/website
+  - url: http://www.learningspaces.io
+    title: LearningSpaces
+    source: https://github.com/DefactoSoftware/LearningSpaces-Landing
+  - url: http://rubybelgium.be/
+    title: Ruby Belgium
+    source: https://github.com/brug-be/rubybelgium
+  - url: http://www.citusdata.com
+    title: "Citus Data"
+  - url: https://www.trailpost.com/
+    title: "Trailpost Outdoors"
+  - url: https://zadevchat.io
+    title: "The ZADevChat Podcast"
+    source: https://github.com/zadevchat/website
+  - url: http://www.cafescidurham.co.uk
+    title: "Cafe Sci Durham City"
+    source: https://github.com/JBorrow/Cafe-Sci-2016
+  - url: http://www.softwareniagara.com
+    title: "Software Niagara"
+    source: https://github.com/softwareniagara/softwareniagara.com
+  - url: https://eazybi.com/
+    title: "eazyBI"
+  - url: http://ichack.org/
+    title: "IC Hack"
+  - url: http://ruby-nord.org/
+    title: Ruby Nord - RUG from Lille, France
+  - url: http://www.nomadrides.com/
+    title: Nomad Rides
+  - url: http://cecilitse.org/
+    title: Cecile Veneziani - Rails Developer
+  - url: https://www.prx.co/
+    title: "PRX.co: PR for startups and small businesses"
+  - url: https://www.ecommwar.com/
+    title: eCommWar - Top Open-Source E-Commerce Platforms
+    source: https://github.com/ecommwar/ecommwar
+  - url: https://www.simpleloans.ca
+    title: SimpleLoans.ca
+  - url: https://martinschurig.com
+    title: "Martin Schurig"
+
+mobile:
+  - url: http://pollev.com
+blogs:
+  - url: http://gnotc.com
+    title: G, not C.
+  - url: http://lunestaconfessions.com
+    title: "Lunesta Confessions"
+  - url: http://erickuhn19.com
+    title: erickuhn19.com
+  - url: http://code.hireart.com
+    title: Code at HireArt
+  - url: https://viljamis.com
+    title: "Viljami Salminen"
+  - url: http://www.downrightlies.net
+    title: 'Downright Lies'
+  - url: http://richardkall.se
+    title: "Richard Käll"
+    source: https://github.com/richardkall/richardkall.se
+  - url: https://www.simple.com/blog
+  - url: http://snwh.org/
+  - url: http://awardwinningfjords.com
+  - url: http://blog.troutwine.us
+  - url: http://blog.vanutsteen.nl
+    source: https://github.com/LeonB/blog.vanutsteen.nl
+  - url: http://aranair.github.io
+    title: "Boa Ho Man"
+    source: https://github.com/aranair/aranair.github.io
+  - url: http://luebke-wohnen.de
+  - url: http://benhollis.net
+  - url: http://darrenknewton.com
+  - url: http://thirteen23.com/garage/
+  - url: https://alexn.org/
+    source: https://github.com/alexandru/alexn.org
+  - url: http://mattolson.com
+  - url: http://carl.hoyer.ca
+    source: https://github.com/choyer/carl.hoyer.ca
+  - url: http://blog.startae.com.br
+  - url: http://www.mattonrails.com
+  - url: http://distresssignal.org
+  - url: http://fredjean.net
+  - url: http://busyconf.com/blog/
+  - url: http://stevenosloan.com
+  - url: http://4pdj.nl
+    source: https://github.com/nathema/4pdj.nl
+  - url: https://Andrew.Kvalhe.im
+  - url: http://epochwolf.com
+  - url: http://oli-g.me
+    source: https://github.com/oli-g/oli-g.github.io/tree/source
+  - url: http://michaelboeke.com
+  - url: http://www.alpine-lab.com/blog
+  - url: http://robots.thoughtbot.com
+  - url: http://abhra.in
+  - url: http://blog.riemann.cc
+    title: "Robert Riemann"
+    source: https://github.com/rriemann/blog
+  - url: http://nebulab.it/blog
+  - url: http://schukin.com
+  - url: http://fearmediocrity.co.uk
+    source: https://github.com/FearMediocrity/fearmediocrity.co.uk
+  - url: http://lord.io
+    title: "Robert Lord"
+    source: https://github.com/lord/blog
+  - url: http://blog.glebm.com/
+  - url: http://www.sudandola.com
+  - url: http://www.4l3c.org
+  - url: http://davidmles.com
+  - url: https://blog.rainforestqa.com/
+  - url: http://limekin.github.io/
+  - url: https://chareice.com
+  - url: http://www.ecosio.com/de/blog
+  - url: http://apetyt-na-kuchnie.pl
+  - url: http://emaxime.com
+  - url: http://www.shannonethomas.com/
+    title: "Shannon E Thomas"
+    source: https://github.com/shannonethomas/shannonethomas.com
+  - url: http://hans.gerwitz.com/
+    title: "Hans Gerwitz"
+    source: https://github.com/gerwitz/hans.gerwitz.com
+  - url: http://nicholasjohnson.com/
+    title: "Nicholas Johnson"
+  - url: http://cball.me
+    title: "Level Up"
+    source: https://github.com/cball/cball.me
+  - url: https://tikhon.com/
+    title: "Tikhon Bernstam"
+  - url: http://jacbac.github.io/bibliotech/
+    title: "JacBac's bibliotech"
+    source: https://github.com/jacbac/bibliotech
+  - url: http://benjamintan.io/blog
+    title: Benjamin Tan – Learnings and Writings
+  - url: https://sitevalidator.com
+    title: Site Validator
+    source: https://github.com/angelbotto/cheersapp-web
+  - url: http://davidl.fr
+    title: "davidl.fr - Front-end advices and best practices (in french)"
+    source: https://github.com/flexbox/davidl
+  - url: http://www.clearhaus.com/
+    title: "Clearhaus"
+  - url: http://www.zoomshift.com/
+    title: "ZoomShift - Employee Scheduling Software"
+  - url: http://phillyrb.org
+    source: https://github.com/phillyrb/phillyrb.org
+    title: "Philadelphia Ruby user group"
+  - url: http://turing.cool
+    source: https://github.com/turing-incomplete/turing-incomplete
+    title: "Turing Incomplete - A Podcast About Programming"
+  - url: https://www.fedux.org
+    title: "fedux.org - Lovely crafted ideas"
+  - url: http://bidah.github.io/blog
+    title: "BIDAH'S DIGITAL CRIB"
+  - url: https://rlafranchi.github.io
+    source: https://github.com/rlafranchi/rlafranchi.github.io
+    title: "Dreaming of Code"
+  - url: http://ikuwow.website
+    title: Query OK.
+    source: https://github.com/ikuwow/query_ok
+  - url: http://vyber-tydne.kle.cz
+    title: "Výběr týdne"
+    source: https://github.com/petrkle/vyber-tydne
+  - url: http://mizukiabe.net
+    title: "mizukiabe.net"
+  - url: http://engineering.sharethrough.com
+    title: Sharethrough Engineering
+  - url: http://samuelbourdon.com
+    title: Samuel Bourdon
+  - url: http://nowifisummercamp.fr
+    title: No Wifi Summercamp
+    source: https://github.com/nowifisummercamp/nowifisummercamp.github.io
+  - url: http://www.webuildinternet.com
+    title: We Build Internet
+  - url: http://kdavi.es/
+    title: Kieren Davies
+    source: https://github.com/kierendavies/kdavi.es
+  - url: http://blog.blockscore.com
+    title: BlockScore Blog
+  - url: http://ashfurrow.com/
+    title: Ash Furrow
+    source: https://github.com/ashfurrow/blog
+  - url: http://www.sistrall.it/
+    title: sistrall.it - Mainly a photoblog
+  - url: http://louisnovick.com
+    title: Louis Novick
+  - url: http://otequip.info
+    title: OT Equipment Info
+    source: https://github.com/AmyHilaire/otequip-info
+  - url: http://manageiq.org/
+    title: ManageIQ
+    source: https://github.com/ManageIQ/manageiq.org
+  - url: https://isfeargoidte.me.uk
+    title: Fear Goidte
+    source: https://github.com/FearGoidte/feargoidte.github.io
+  - url: http://ngs.io
+    title: Atsushi Nagase
+    source: https://github.com/ngs/sources.ngs.io
+  - url: https://dtcristo.com/
+    title: David Cristofaro
+    source: https://github.com/dtcristo/dtcristo.com
+  - url: http://aboutcoder.com/blog/
+    title: Jerome Chan
+    source: https://github.com/jeromechan/jeromechan.github.io
+  - url: https://www.opensourcery.co.za
+    title: Open Sourcery by Kenneth Kalmer
+    source: https://github.com/kennethkalmer/opensourcery.co.za
+  - url: https://stormforger.com
+    title: Load Testing and Performance Analysis for Agile- and DevOps-Teams
+  - url: https://supermercadosgrupal.com.uy
+    title: Supermarkets Grupal
+  - url: http://OFReport.com
+    title: Our family blog, documenting our work in Ukraine.
+    source: https://github.com/joshukraine/ofreport.com

@@ -1,0 +1,24 @@
+<nav class="c-site-frame__navigation
+            c-site-navigation
+            u-flex
+            u-flex-align-items-center
+            u-flex-justify-space-between">
+  <%= link_to(
+    "Project name",
+    "#{locale_prefix}/",
+    class: "c-site-navigation__site-name"
+  ) %>
+
+  <div class="u-flex u-flex-nowrap">
+	<%= link_to(
+		t("site_navigation.docs"),
+		"#{locale_prefix}/basics/info/",
+		class: "c-site-navigation__link"
+	) %>
+	<%= link_to(
+		"Blog",
+		"#{locale_prefix}/support/",
+		class: "c-site-navigation__link"
+	) %>
+  </div>
+</nav>
